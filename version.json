@@ -3,5 +3,5 @@
   "versionCode": 101,
   "force": false,
   "note": "首个版本",
-  "wgtUrl": "https://github.com/niuroujipai/calculate/releases/download/v1.0.0/speedmath.wgt"
+  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/dist/speedmath-101.wgt"
 }
