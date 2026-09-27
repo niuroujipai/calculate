@@ -1,7 +1,7 @@
 {
-  "versionName": "1.3",
-  "versionCode": 103,
+  "versionName": "1.4",
+  "versionCode": 104,
   "force": false,
-  "note": "答题改用内置数字键盘，不再弹出系统输入法；底部作答区整合上一题/下一题，商首位与商前两位填满自动跳题",
-  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-103.wgt"
+  "note": "答案框支持点击定位光标，可从个位往高位倒着输入；切到后台自动暂停计时（后台时间不计入成绩）；首页新增常驻的新版本提示横幅",
+  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-104.wgt"
 }
