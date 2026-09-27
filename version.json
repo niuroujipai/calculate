@@ -1,7 +1,7 @@
 {
-  "versionName": "1.1",
-  "versionCode": 101,
+  "versionName": "1.2",
+  "versionCode": 102,
   "force": false,
-  "note": "首个版本",
-  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-101.wgt"
+  "note": "新增「混合模式」：6 种题型平均混合，每轮 40 题，每题标注所属题型",
+  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-102.wgt"
 }
