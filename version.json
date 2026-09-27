@@ -1,7 +1,7 @@
 {
-  "versionName": "1.2",
-  "versionCode": 102,
+  "versionName": "1.3",
+  "versionCode": 103,
   "force": false,
-  "note": "新增「混合模式」：6 种题型平均混合，每轮 40 题，每题标注所属题型",
-  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-102.wgt"
+  "note": "答题改用内置数字键盘，不再弹出系统输入法；底部作答区整合上一题/下一题，商首位与商前两位填满自动跳题",
+  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-103.wgt"
 }
