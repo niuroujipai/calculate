@@ -1,7 +1,7 @@
 {
-  "versionName": "1.5",
-  "versionCode": 105,
+  "versionName": "1.6",
+  "versionCode": 106,
   "force": false,
-  "note": "每个模式可选题量（10/20/30/40/50），时长按题量等比换算；提交后自动保存成绩，结果弹窗与逐题回顾都直接显示答对题数和正确率；历史记录可点开看逐题回顾、可删除单条；错题本按题型分组；最后一道题的按钮变成「提交」",
-  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-105.wgt"
+  "note": "修复：选完题量点「开始练习」后选择框不消失、界面卡住的问题。另外答题框高度固定成一个数字的高度，不再忽大忽小",
+  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-106.wgt"
 }
