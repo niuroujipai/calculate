@@ -1,7 +1,7 @@
 {
-  "versionName": "1.7",
-  "versionCode": 107,
+  "versionName": "1.8",
+  "versionCode": 108,
   "force": false,
-  "note": "修复答题框高度问题：空着的时候被一个同名 CSS 类撑大了 16rem，现在空框和有内容时一样高",
-  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-107.wgt"
+  "note": "错题本改成两层：先按题型选（6 个题型卡片，各显示错题数，没错题的置灰），点进去看该题型的错题，再开始只针对这个题型的错题训练",
+  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-108.wgt"
 }
