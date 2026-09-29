@@ -1,7 +1,7 @@
 {
-  "versionName": "1.6",
-  "versionCode": 106,
+  "versionName": "1.7",
+  "versionCode": 107,
   "force": false,
-  "note": "修复：选完题量点「开始练习」后选择框不消失、界面卡住的问题。另外答题框高度固定成一个数字的高度，不再忽大忽小",
-  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-106.wgt"
+  "note": "修复答题框高度问题：空着的时候被一个同名 CSS 类撑大了 16rem，现在空框和有内容时一样高",
+  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-107.wgt"
 }
