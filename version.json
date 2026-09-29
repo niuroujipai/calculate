@@ -1,7 +1,7 @@
 {
-  "versionName": "1.4",
-  "versionCode": 104,
+  "versionName": "1.5",
+  "versionCode": 105,
   "force": false,
-  "note": "答案框支持点击定位光标，可从个位往高位倒着输入；切到后台自动暂停计时（后台时间不计入成绩）；首页新增常驻的新版本提示横幅",
-  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-104.wgt"
+  "note": "每个模式可选题量（10/20/30/40/50），时长按题量等比换算；提交后自动保存成绩，结果弹窗与逐题回顾都直接显示答对题数和正确率；历史记录可点开看逐题回顾、可删除单条；错题本按题型分组；最后一道题的按钮变成「提交」",
+  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-105.wgt"
 }
