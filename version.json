@@ -1,7 +1,7 @@
 {
-  "versionName": "1.8",
-  "versionCode": 108,
+  "versionName": "1.9",
+  "versionCode": 109,
   "force": false,
-  "note": "错题本改成两层：先按题型选（6 个题型卡片，各显示错题数，没错题的置灰），点进去看该题型的错题，再开始只针对这个题型的错题训练",
-  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-108.wgt"
+  "note": "结果弹窗和历史记录都会显示本次成绩是优秀 / 及格 / 不及格（用时和答对率两项都要达标）；首页卡片去掉了小字，右上角新增「规则」说明怎么评级",
+  "wgtUrl": "https://cdn.jsdelivr.net/gh/niuroujipai/calculate@main/speedmath-109.wgt"
 }
